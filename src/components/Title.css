@@ -1,0 +1,18 @@
+.header_title {
+    padding: 5em 3em 0em;
+}
+.small_spacing {
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+    font-size: 19px;
+}
+.list{
+    display: flex;
+    padding-top: 17px;
+}
+.icon{
+    padding: 0 1.5em 0 0;
+}
+.updated {
+    font-size: 4.2em;
+}
